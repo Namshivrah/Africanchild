@@ -1,0 +1,28 @@
+/*selector{css-rule:value;_}
+/*content style*/
+body{
+    margin: auto;
+    width: 90%;
+    background-image: url("images/bernard-hermant-_THpp4Hs8LU-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.banner{
+    width: 80%;
+    height: 10px;
+}
+.sub-title{
+    color: blue;
+}
+.content-title{
+    color: tomato;
+}
+.content{
+    color: rgba(121, 196, 120,.4);
+}
+.footer{
+    color: #00008b;
+}
+
+
